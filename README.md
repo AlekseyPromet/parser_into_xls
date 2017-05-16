@@ -1,2 +1,2 @@
-# Pastern for a site in xls
+# Parser for a site in xls
 Это простой парсер, который берёт информацию об открытых уроках с Geekbrains и записывает её в эксель файл.
